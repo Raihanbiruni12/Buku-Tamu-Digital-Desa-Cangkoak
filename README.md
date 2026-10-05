@@ -7,9 +7,9 @@ Sistem manajemen basis data pengunjung berbasis web yang dirancang khusus untuk 
 
 
 ## 💻 Tech Stack
-- **Back-End:** PHP *(Catatan: Ubah menjadi Laravel atau CodeIgniter jika Anda menggunakan framework)*
+- **Back-End:** PHP, TypeScript
 - **Database:** MySQL
-- **Front-End:** Bootstrap, HTML5, CSS3, JavaScript
+- **Front-End:** Bootstrap, HTML5, CSS3, JavaScript, Next.js
 - **Architecture:** Draw.io & PlantUML (untuk perancangan sistem)
 
 ## ✨ Fitur Utama
